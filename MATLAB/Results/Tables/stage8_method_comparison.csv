@@ -1,0 +1,4 @@
+Method,ElectricityCost_INR,DeliveredEnergy_kWh,PeakDemand_kW,CapacityViolationHours,MaximumOverload_kW,MaximumEnergyError_kWh,StationFeasible
+Uncontrolled,46450.8,4923.7,571.3,8,321.3,0,0
+Classical LP,45190.05,4923.7,250,0,2.8421709430404e-14,2.8421709430404e-14,1
+Independent QUBO,45996.2,4923.7,250,0,0,0,1
